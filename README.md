@@ -18,6 +18,9 @@
 
 This data analysis, tracks and monitors Employee's Development, performance  with real-time insight of the HR department of a company over the past the year. By analysing various aspects of the data, we seek to identify trends, and make a data driven decisions and recomendation, and by doing this we gain a proper and a deeper understanding of the company's employee deveolopment and performance.
 
+![Dashboard](https://github.com/user-attachments/assets/602dfa20-da0f-477d-b030-3ab0ca5107ca)
+
+
 ### Data Sources
 
 Sales Data: The promary dataset used for this analysis is the "Cleaned_HR_Data_Analysis Part 1.csv" and "2nd part of the HR Dataset.csv" files, These files contains detailed information about employees of the company.
